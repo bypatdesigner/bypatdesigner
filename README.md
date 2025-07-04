@@ -1,6 +1,6 @@
-![Group 45](https://github.com/user-attachments/assets/fe3115a1-41bf-43f2-95e6-d7c366c11e52)
-
+![Group 45](https://github.com/user-attachments/assets/b91ad6bc-b1ee-4be4-a63f-3243764546f0)
 <!--
+
 **bypatdesigner/bypatdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
