@@ -1,4 +1,4 @@
-![Group 44](https://github.com/user-attachments/assets/be73e6ab-6b25-4ddd-886d-c68e8368aeb6)
+![Group 45](https://github.com/user-attachments/assets/fe3115a1-41bf-43f2-95e6-d7c366c11e52)
 
 <!--
 **bypatdesigner/bypatdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
