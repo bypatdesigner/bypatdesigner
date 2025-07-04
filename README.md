@@ -1,10 +1,3 @@
-
-## 🌟 Hey there!! I'm Pat 👋
-I'm a Graphic - UI/UX Designer turned Web Developer in training, passionate about blending creativity with code.
-Currently based in Bisceglie, Italy 🇮🇹, where the sun inspires pixels and clean layouts.
-I love turning ideas into visual stories and user-friendly interfaces.✨
-
-
 ![Group 44](https://github.com/user-attachments/assets/be73e6ab-6b25-4ddd-886d-c68e8368aeb6)
 
 <!--
