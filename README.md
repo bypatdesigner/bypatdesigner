@@ -1,7 +1,7 @@
 ![Group 45](https://github.com/user-attachments/assets/b91ad6bc-b1ee-4be4-a63f-3243764546f0)
-![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,flutter,figma,ts,react,vue,nodejs,npm,mysql,php,laravel)
+<!--![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,flutter,figma,ts,react,vue,nodejs,npm,mysql,php,laravel)
 
-<!--
+
 
 **bypatdesigner/bypatdesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
