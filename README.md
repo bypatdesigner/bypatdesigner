@@ -11,14 +11,11 @@ Building Digital Experiences through Design & Code
 
 <h2>About Me</h2>
 
-Hi! I'm Patricia, a Graphic Designer specialized in UX/UI Design, currently expanding my expertise in Software Engineering.
+Hi! I'm Patricia, a Graphic Designer specialized in UX/UI Design with a growing background in software development.
 
-I believe the best digital products are built where design and development come together. That's why I'm combining my background in visual design and user experience with modern web technologies to create intuitive, accessible, and engaging digital experiences.
+I believe the best digital products are built where design and development come together. That's why I'm combining my experience in visual design and user experience with modern web technologies to create intuitive, accessible, and engaging digital experiences.
 
-I recently earned an Diploma in Software Application Design and Development, strengthening my practical knowledge of software engineering, front-end development, and application design.
-
-I'm currently studying Software Analysis & Development while continuously improving my skills in front-end development, software architecture, and user-centered design.
-<!--
+I hold an IFTS Diploma in Techniques for the Design and Development of Software Applications. Currently, I'm studying Software Analysis & Development (SENA) as part of my journey toward a Software Engineering degree, while continuously improving my skills in front-end development, software architecture, and user-centered design.
 <h2>Languages</h2>
 
 <p align="left">
