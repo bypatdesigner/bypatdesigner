@@ -1,5 +1,5 @@
 <!--![Group 45](https://github.com/user-attachments/assets/b91ad6bc-b1ee-4be4-a63f-3243764546f0)-->
-<img width="2170" height="725" alt="ChatGPT Image 5 lug 2026, 12_00_02" src="https://github.com/user-attachments/assets/334f1227-3005-42a0-a0c0-f7303752d26b" />
+<img width="2172" height="724" alt="ChatGPT Image 5 lug 2026, 12_25_16" src="https://github.com/user-attachments/assets/d21440f5-665a-4ef9-8bf7-0a239e6df2b2" />
 
 <h1 align="center">
   Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px"> I'm Patricia
