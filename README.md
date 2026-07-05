@@ -15,6 +15,8 @@ Hi! I'm Patricia, a Graphic Designer specialized in UX/UI Design, currently expa
 
 I believe the best digital products are built where design and development come together. That's why I'm combining my background in visual design and user experience with modern web technologies to create intuitive, accessible, and engaging digital experiences.
 
+I recently earned an Diploma in Software Application Design and Development, strengthening my practical knowledge of software engineering, front-end development, and application design.
+
 I'm currently studying Software Analysis & Development while continuously improving my skills in front-end development, software architecture, and user-centered design.
 <!--
 <h2>Languages</h2>
