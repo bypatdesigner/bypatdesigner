@@ -16,7 +16,9 @@ Hi! I'm Patricia, a Graphic Designer specialized in UX/UI Design with a growing 
 I believe the best digital products are built where design and development come together. That's why I'm combining my experience in visual design and user experience with modern web technologies to create intuitive, accessible, and engaging digital experiences.
 
 I hold an IFTS Diploma in Techniques for the Design and Development of Software Applications. Currently, I'm studying Software Analysis & Development (SENA) as part of my journey toward a Software Engineering degree, while continuously improving my skills in front-end development, software architecture, and user-centered design.
-<h2>Languages</h2>
+
+
+<!--<h2>Languages</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php />
